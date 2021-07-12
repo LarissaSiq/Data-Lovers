@@ -21,6 +21,7 @@ _Protótipo de Baixa Fidelidade_
 A ideia iniciar era fazer uma visualização semelhante a um deck de cartas, lembrando jogos de RPG. 
 
 ![Card](https://i.ibb.co/rp493x8/image-3.png)
+
 _Inspiração para os cards_
 
 ![Cards](https://trello-attachments.s3.amazonaws.com/60eca5a319d08e74ac40f285/450x377/0741ffb99720fdab3a6f48a82b5ac393/image_%281%29.png)
