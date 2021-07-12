@@ -21,10 +21,10 @@ _Protótipo de Baixa Fidelidade_
 A ideia iniciar era fazer uma visualização semelhante a um deck de cartas, lembrando jogos de RPG. 
 
 ![Card](https://i.ibb.co/rp493x8/image-3.png)
-
-![Frente do Card](https://trello-attachments.s3.amazonaws.com/60eca5a319d08e74ac40f285/378x637/e492c0b907126fb4a72829b57ff1c3c1/image.png)
-![Atrás do Card](https://trello-attachments.s3.amazonaws.com/60eca5a319d08e74ac40f285/352x628/3fab462c47c4795e9d8e79319ecd25ab/image.png)
 _Inspiração para os cards_
+
+![Cards](https://trello-attachments.s3.amazonaws.com/60eca5a319d08e74ac40f285/450x377/0741ffb99720fdab3a6f48a82b5ac393/image_%281%29.png)
+
 
 ## 📌Testes de Usabilidade
 Os testes de usabilidade foram realizados com jogadores e também com estudantes da turma front end do Laboratoria, através de um formulário foi possível verificar quais as dificuldades encontradas e também receber o feedback de cada usuário. Como o site já estava na fase final foi possível testar todos as funcionalidades como os filtros de categoria, ordenar, dificuldade e também foi possível testar a responsividade do site.
