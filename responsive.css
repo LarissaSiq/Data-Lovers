@@ -15,11 +15,11 @@ header{
     background-image: url(img/background.jpg);
     background-size: 350%;
     background-position: center;
-    height: 1400px;
+    height: 1600px;
     background-repeat: no-repeat;
 }
 #div-go{
-    margin: 300px 0px;
+    margin: 350px 0px;
     height: 80vw;
     width: 85%;
     justify-content: center;
