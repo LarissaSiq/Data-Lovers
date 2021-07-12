@@ -70,14 +70,14 @@ header{
 }
 #div-search{
     width: 100%;
-    margin: 0px;
+    margin: 0px 105px 0px 0px;
     padding: 0px;
 }
 #img-search{
     width: 10%;
 }
 #input-search{
-    width: 50%;
+    width: 65%;
     height: 100%;
     font-size: 38px;
     padding: 20px;
