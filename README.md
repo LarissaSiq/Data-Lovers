@@ -1,7 +1,8 @@
 # League of Legends Champions
 Aplicação pensada para facilitar a vida dos jogadores na procura de mais informações sobre os seus campeões favoritos do League of Legends, onde é possível visualizar, ordenar e categorizar todos os personagens presentes no jogo eletrônico online gratuito League of Legends (abreviado como LoL), desenvolvido e publicado pela Riot Games em 2009.
 
-![Imagem do Projeto](https://i.ibb.co/BntvC6S/capa.jpg)
+![Imagem do Projeto](https://trello-attachments.s3.amazonaws.com/60ca3909ebf7f64cf767909b/60eca5a319d08e74ac40f285/eda6497db522c3ff81ea960e50c58133/image.png)
+(https://trello-attachments.s3.amazonaws.com/60ca3909ebf7f64cf767909b/60eca5a319d08e74ac40f285/53bf136ad9331ed146dfbc1b8c994c20/image.png)
 
 ## 🚀 Histórias de Usuário
 A primeira historia de usuário foi pensada em um usuário que busca informações sobre os seus campões favoritos, seguindo essa linha foram criados os Cards onde é possível verificar as informações de cada personagem e posteriormente foi adicionado o verso do card para adicionar informações extra como o nível de ataque, defesa, magia e dificuldade.   
