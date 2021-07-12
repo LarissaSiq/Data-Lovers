@@ -27,9 +27,9 @@ _Inspiração para os Cards_
 Os testes de usabilidade foram realizados com jogadores e também com estudantes da turma front end do Laboratoria, através de um formulário foi possível verificar quais as dificuldades encontradas e também receber o feedback de cada usuário. Como o site já estava na fase final foi possível testar todos as funcionalidades como os filtros de categoria, ordenar, dificuldade e também foi possível testar a responsividade do site.
 
 __lista de problemas detectados nos testes de usabilidade__
-- Não ter todos os personagens do jogo[ API desatualizada ].
-- Botões dropdown pequenos na versão mobile[ corrigido ].
-- Informações dos personagens saindo do Card na versão mobile[ corrigido ].
+- Não ter todos os personagens do jogo [ API desatualizada ].
+- Botões dropdown pequenos na versão mobile [ corrigido ].
+- Informações dos personagens saindo do card na versão mobile [ corrigido ].
 
 ## ✒️ Autores
 * [Larissa Siqueira](https://github.com/LarissaSiq)
