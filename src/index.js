@@ -1,5 +1,3 @@
-//SCROL LENTO
-
 let menuItems = document.querySelectorAll('a[href^="#"]');
 menuItems.forEach(item => {
     item.addEventListener('click', scrollToId);
