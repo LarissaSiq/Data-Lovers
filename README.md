@@ -12,7 +12,7 @@ Na segunda historia um jogador Iniciante procurar refinar a pesquisa por esses c
 A terceira foi pensado em um usuário que busca fazer uma pesquisa mais especifica sobre um personagem, então foi adicionado uma barra de pesquisa onde é possível colocar o nome ou as primeiras letras do nome do personagem e assim encontra-lo rapidamente. 
 
 ## 🛠️ Desenvolvimento
-Iniciamos com o planejamento conjunto pelo Trello após a definição do tema, o objetivo da primeira sprint foi focada na parte de estudos, entendimento do projeto e planejamento. Já na segunda sprint o objetivo foi printa os cards de personagens na tela e fazer o primeiro protótipo de baixa fidelidade já com as ideais debatidas durante a primeira sprint. 
+O projeto foi feito com HTML, CSS, JavaScript e a própria API de personagens do jogo, a duração da criação do projeto foi de 3 sprints, com os objetivos em cada sprint de definir o tema, printar os cards de personagens na tela e fazer o primeiro protótipo de baixa fidelidade já com as ideais debatidas durante a primeira sprint e por ultimo, fazer o protótipo de alta fidelidade e fazer os filtros de categoria, dificuldade, ordenação e filtro de buscas.
 
 ![Protótipo de Baixa Fidelidade](https://i.ibb.co/7t4r3Cg/image-2-3.jpg)
 
@@ -24,16 +24,14 @@ A ideia iniciar era fazer uma visualização semelhante a um deck de cartas, lem
 
 _Inspiração para os cards_
 
-![Cards](https://trello-attachments.s3.amazonaws.com/60eca5a319d08e74ac40f285/450x377/0741ffb99720fdab3a6f48a82b5ac393/image_%281%29.png)
-
+![Aplicação](https://user-images.githubusercontent.com/64505863/126704941-c254a52f-cc16-4f31-bbd4-5d0b818fbe1d.gif)
+_Flip Card usado para mostrar informações adicionais._
 
 ## 📌Testes de Usabilidade
-Os testes de usabilidade foram realizados com jogadores e também com estudantes da turma front end do Laboratoria, através de um formulário foi possível verificar quais as dificuldades encontradas e também receber o feedback de cada usuário. Como o site já estava na fase final foi possível testar todos as funcionalidades como os filtros de categoria, ordenar, dificuldade e também foi possível testar a responsividade do site.
+Os testes de usabilidade foram realizados e com isso foi possível verificar quais problemas foram detectados no site atráves do usuário. Com o site já na fase final foi possível testar todos as funcionalidades como os filtros de categoria, ordenar, dificuldade, filtro de busca e também foi possível testar a responsividade do site e fazer algumas melhorias de acordo com o feedback dos usuários.
 
-__lista de problemas detectados nos testes de usabilidade__
+__Problemas detectados nos testes de usabilidade:__
 - Não ter todos os personagens do jogo [ API desatualizada ].
-- Botões dropdown pequenos na versão mobile [ corrigido ].
-- Informações dos personagens saindo do card na versão mobile [ corrigido ].
 
 ## ✒️ Autores
 * [Larissa Siqueira](https://github.com/LarissaSiq)
