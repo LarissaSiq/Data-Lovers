@@ -27,12 +27,15 @@ _Inspiração para os cards_
 ![Aplicação](https://user-images.githubusercontent.com/64505863/126704941-c254a52f-cc16-4f31-bbd4-5d0b818fbe1d.gif)
 _Flip Card usado para mostrar informações adicionais._
 
-## 📌Testes de Usabilidade
+## ✒️ Testes de Usabilidade
 Os testes de usabilidade foram realizados e com isso foi possível verificar quais problemas foram detectados no site atráves do usuário. Com o site já na fase final foi possível testar todos as funcionalidades como os filtros de categoria, ordenar, dificuldade, filtro de busca e também foi possível testar a responsividade do site e fazer algumas melhorias de acordo com o feedback dos usuários.
 
 __Problemas detectados nos testes de usabilidade:__
 - Não ter todos os personagens do jogo [ API desatualizada ].
 
-## ✒️ Autores
+## 📌 Link para a aplicação:
+[Busque por um Campeão](https://larissasiq.github.io/data-lovers/)
+
+## Autores
 * [Larissa Siqueira](https://github.com/LarissaSiq)
 * [Larissa Vilela](https://github.com/larissavilelasobral)
