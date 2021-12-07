@@ -36,7 +36,8 @@ __Problemas detectados nos testes de usabilidade:__
 ## 📌 Link para a aplicação:
 [Busque por um Campeão](https://larissasiq.github.io/data-lovers/)
 
+---
 
-## 5. Desenvolvedoras
+## :woman_technologist: Desenvolvedoras
 - [Larissa Siqueira](https://github.com/LarissaSiq)
 - [Larissa Vilela](https://github.com/larissavilelasobral)
